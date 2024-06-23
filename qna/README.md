@@ -1,10 +1,10 @@
 # RAG チャットアプリの構築
 
 以下の様な、Azure OpenAI Service x Azure AI Search での RAG を用いた質問回答ができるチャットアプリを構築することができます。
-![RAG チャットアプリ](.images/deploy-rag-chat-app.gif)
+![RAG チャットアプリ](/.images/deploy-rag-chat-app.gif)
 
 Azure 構成図は以下の通りです。
-![RAG チャットアプリの構成図](.images/deploy-rag-chat-app.jpg)
+![RAG チャットアプリの構成図](/.images/deploy-rag-chat-app.jpg)
 
 ## 構築方法
 
